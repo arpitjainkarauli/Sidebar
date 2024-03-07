@@ -1,0 +1,11 @@
+import React from 'react'
+import "./document.css"
+function Document() {
+  return (
+    <div className='docsmain'>
+    <h1 className='heading'>Documentation</h1>
+    <p className='para'>lorem500Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, quae quidem consequuntur atque amet inventore eum quaerat iste praesentium voluptatum necessitatibus harum facilis suscipit cum placeat porro pariatur repellat facere. Odio veniam adipisci beatae qui blanditiis excepturi similique asperiores magnam. Id cumque deserunt animi ea nostrum, necessitatibus exercitationem dignissimos, autem illum maiores doloremque non. Ipsa, eos error ad, voluptatibus sapiente, eligendi officia reiciendis nisi non facilis optio odio! Temporibus ea iusto at repudiandae blanditiis quibusdam quo omnis doloribus ab iste fugiat quaerat nesciunt possimus voluptatibus quas quia fuga necessitatibus rem deleniti deserunt, sunt unde labore! Mollitia veniam tempora id nihil?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem magnam recusandae accusantium laudantium voluptatem dolorum et esse ducimus debitis minus, quo assumenda repudiandae nam. Fuga provident iure quisquam maiores facilis minima suscipit ea tempora consequatur ut quasi corrupti voluptas doloribus, tenetur nihil ipsam eaque itaque id. Sit, sequi distinctio voluptatibus autem, ea unde alias iure fuga, quibusdam eveniet delectus fugiat. Voluptates blanditiis distinctio adipisci vero fugit ea harum veniam ut dolorem eos eius, iusto voluptas eveniet doloribus unde saepe quis aliquid commodi consequatur ab, quae sunt modi vitae odit. Asperiores sapiente quos, aspernatur nisi pariatur illo placeat numquam laborum ipsam harum, eos suscipit vel, non optio veniam nihil corporis deleniti libero. Dolores et libero beatae eaque, iure laudantium! Quisquam reiciendis explicabo aperiam provident esse. Amet quae est, aliquam incidunt facere expedita omnis maiores dignissimos optio commodi facilis magni dolorem magnam veniam quaerat officia dolorum consectetur provident ad quia tempore animi mollitia iusto. Culpa natus cupiditate tenetur, corporis minima molestiae veniam quae sint. Quae atque iusto, eius magnam natus molestiae id molestias odit.</p>
+    </div>
+  )
+}
+export default Document
